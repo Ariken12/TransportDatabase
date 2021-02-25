@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bafbdb7-654b-4584-a7e2-5b0a4411bbd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_task</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eTbmB0w3RLpmgvqg4JfnniKyWw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bafbdb7-654b-4584-a7e2-5b0a4411bbd9" name="Default Changelist" comment="" />
+      <created>1593082893627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593082893627</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add constant">
+      <created>1593083376830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593083376830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add init class">
+      <created>1593084174044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593084174044</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add base request method">
+      <created>1593084196703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593084196703</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rename 1 var">
+      <created>1593084223027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593084223027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename class">
+      <created>1593084439230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593084439230</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add method for insert transport">
+      <created>1593170583565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593170583565</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add method for insert owner">
+      <created>1593170603011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593170603011</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add method for insert license">
+      <created>1593170621939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593170621940</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix some errors">
+      <created>1593845377972</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593845377972</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix grammar">
+      <created>1593846015256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593846015256</updated>
+    </task>
+    <task id="LOCAL-00011" summary="decor dicts and add last parsers">
+      <created>1594283642295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594283642295</updated>
+    </task>
+    <task id="LOCAL-00012" summary="decor dicts">
+      <created>1594287632447</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594287632447</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correct __inserts_transport, __insert_owner">
+      <created>1594299220731</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594299220731</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correct correct syntax mistake">
+      <created>1594299266236</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594299266236</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add calling function in read_license_x">
+      <created>1594312866906</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594312866906</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add update function">
+      <created>1594317160708</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594317160708</updated>
+    </task>
+    <task id="LOCAL-00017" summary="end some read_bus_x methods">
+      <created>1594352786032</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1594352786032</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add constant" />
+    <MESSAGE value="add init class" />
+    <MESSAGE value="add base request method" />
+    <MESSAGE value="rename 1 var" />
+    <MESSAGE value="rename class" />
+    <MESSAGE value="add method for insert transport" />
+    <MESSAGE value="add method for insert owner" />
+    <MESSAGE value="add method for insert license" />
+    <MESSAGE value="fix some errors" />
+    <MESSAGE value="fix grammar" />
+    <MESSAGE value="add some types" />
+    <MESSAGE value="decor dicts and add last parsers" />
+    <MESSAGE value="decor dicts" />
+    <MESSAGE value="correct __inserts_transport, __insert_owner" />
+    <MESSAGE value="correct correct syntax mistake" />
+    <MESSAGE value="add calling function in read_license_x" />
+    <MESSAGE value="add update function" />
+    <MESSAGE value="end some read_bus_x methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="end some read_bus_x methods" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="0" key="CommitChangelistDialog2" timestamp="1594352783789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="353" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594352783789" />
+    <state x="114" y="48" key="SettingsEditor" timestamp="1594349095853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="48" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594349095853" />
+  </component>
+</project>
